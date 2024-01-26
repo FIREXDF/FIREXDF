@@ -52,12 +52,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FIREXDF/FIREXDF/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FIREXDF/FIREXDF/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/FIREXDF">
+  <a href="https://open.spotify.com/user/6wmsoxiqf3k8v8o1pgci7y95x">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=6wmsoxiqf3k8v8o1pgci7y95x&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
