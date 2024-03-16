@@ -23,8 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img src="https://github.com/FIREXDF/FIREXDF/blob/main/github-contribution-grid-snake-dark.svg"  />
-  <img width="12">
+  <img src="https://github.com/FIREXDF/FIREXDF/blob/main/github-contribution-grid-snake-dark.svg" height="30" alt="smash bros ultimate logo"  />
+  <img width="12" />
 </div>
 
 ###
