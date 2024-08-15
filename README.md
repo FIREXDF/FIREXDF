@@ -44,11 +44,11 @@
 
 ###
 
-<img align="right" height="148" src="https://media1.tenor.com/m/J26CWkFyjwsAAAAC/vegeta-super-saiyan.gif"  />
+<img align="right" height="148" src="https://raw.githubusercontent.com/FIREXDF/FIREXDF/main/5020a10ccde4a637584fd48eb5bcad60.gif"  />
 
 ###
 
-<p align="left">i'm trying to mod smash bros in any ways now i'm trying to create skins</p>
+<p align="left">I'm doing a lot of thing i love to create mods on videos games.</p>
 
 ###
 
