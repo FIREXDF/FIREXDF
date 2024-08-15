@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is FIREXDF and I'm a (Little smash modder), from France</h2>
+<h2 align="left">Hi 👋! My name is FIREXDF and i'm doing a lot of things, from France</h2>
 
 ###
 
