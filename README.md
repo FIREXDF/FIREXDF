@@ -24,6 +24,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
   <img width="12" />
+   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
