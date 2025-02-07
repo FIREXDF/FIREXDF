@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://files.gamebanana.com/bitpit/8273e3fa04d89396e6fb98f180b56d7d.gif](https://files.gamebanana.com/bitpit/ezgifcom-animated-gif-maker_3_.gif)"  />
+<img align="right" src="https://files.gamebanana.com/bitpit/ezgifcom-animated-gif-maker_3_.gif"  />
 
 ###
 
