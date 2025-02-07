@@ -83,6 +83,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FIREXDF/FIREXDF/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 ###
