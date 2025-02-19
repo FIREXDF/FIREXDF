@@ -81,7 +81,7 @@
 
 <img src="https://count.getloli.com/@firexdf?name=firexdf&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=firexdf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
