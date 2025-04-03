@@ -95,4 +95,4 @@
 [FightPlanner](https://github.com/FIREXDF/SSBUFightPlanner)
 
 # Projects i want to make
-Tomodachi life recreation
+Nothing for right now.
