@@ -3,7 +3,7 @@
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 <img align="right" src="https://files.gamebanana.com/bitpit/ezgifcom-animated-gif-maker_3_.gif" width="200"/>
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <div align="center">
 
@@ -55,14 +55,14 @@
 
 ---
 
-## 📦 Projects
+## Projects
 
 - **FightPlanner**  
   https://github.com/FIREXDF/SSBUFightPlanner
 
 ---
 
-## 🚀 Future Projects
+## Future Projects
 
 Nothing planned for now.
 
