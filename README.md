@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm FIREXDF</h1>
 <h3 align="center">Developer from France 🇫🇷</h3>
+<h4 align="center">Currently in Seconde TNE 🎓</h4>
 
 ---
 
