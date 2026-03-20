@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm FIREXDF</h1>
 <h3 align="center">Developer from France 🇫🇷</h3>
 <h4 align="center">Currently in Seconde TNE 🎓</h4>
+<h5 align="center">Passionate about coding since the age of 12 💻</h5>
 
 ---
 
