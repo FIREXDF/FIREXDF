@@ -9,7 +9,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=ae,au,pr,ps" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ae,au,pr,affinity,davinci" />
 
 <br>
 
