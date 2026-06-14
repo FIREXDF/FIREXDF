@@ -31,7 +31,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=apple,windows,debian" />
+<img src="https://skillicons.dev/icons?i=apple,windows,ubuntu" />
 
 </div>
 
