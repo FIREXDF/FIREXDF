@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=zed" />
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=apple,windows,ubuntu" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=windows,debian,apple" />
 
 </div>
 
