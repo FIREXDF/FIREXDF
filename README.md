@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,electron,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,electron,cs,rust" />
 
 <br>
 
