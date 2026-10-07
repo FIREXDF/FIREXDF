@@ -11,7 +11,7 @@
 
 <div align="left">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ae,au,pr,davinci,figma,affinity" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ae,pr,davinci,figma,affinity" />
 
 <br>
 
