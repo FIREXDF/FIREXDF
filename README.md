@@ -11,11 +11,11 @@
 
 <div align="left">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ae,pr,davinci,figma,affinity" />
+<img src="icons?i=ae,pr,davinci,figma,affinity" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tauri,electron,cs,rust" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tauri,electron,cs,rust,go" />
 
 <br>
 
