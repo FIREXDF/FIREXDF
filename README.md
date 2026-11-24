@@ -25,9 +25,6 @@
 
 <img src="https://skillicons.dev/icons?i=vercel,cloudflare" />
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=discord" />
 
 <br>
 
